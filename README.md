@@ -952,7 +952,7 @@
                             <i class="fas fa-user"></i>
                         </div>
                         <div>
-                            <div class="client-name">سارة محمود</div>
+                            <div class="client-name">سارة محمد</div>
                             <div class="client-position">مديرة تسويق</div>
                         </div>
                     </div>
@@ -1163,5 +1163,7 @@
     </script>
 </body>
 </html>
+```
+ج
 
 
